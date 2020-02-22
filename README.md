@@ -5,7 +5,7 @@ Our submission for Google Hash Code 2020. Even though we could not complete our 
 
 ------------
 
-- [Rohit Sahoo](https://github.com/sahoo-rohit "Rohit Sahoo")
+- [Rohit Sahoo](https://github.com/rohit-sahoo "Rohit Sahoo")
 - [Rushikesh Chaudhari](https://github.com/Reyano132 "Rushikesh Chaudhari")
 - [Vedang Naik](https://github.com/vedang08 "Vedang Naik")
 - [Saurabh Singh](https://github.com/Saurabh-Singh-00 "Saurabh Singh")
